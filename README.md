@@ -58,6 +58,7 @@ Tecnologias utilizadas durante o desafio:
 ## 🏆 Desafios
 
 - Classificador de nível de herói
+- Calculadora de partidas ranqueadas
 
 *(Novos desafios podem ser adicionados conforme o avanço no bootcamp.)*
 
