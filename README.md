@@ -41,8 +41,7 @@ Conteúdos abordados no bootcamp
 - Variáveis
 - Operadores lógicos e relacionais
 - Estruturas condicionais (`if / else`)
-- Laços de repetição (`for`, `while`)
-- Manipulação básica de dados
+- Prática de controle de fluxo
 - Saída de informações no console
 
 ---
@@ -59,8 +58,6 @@ Tecnologias utilizadas durante o desafio:
 ## 🏆 Desafios
 
 - Classificador de nível de herói
-- Exercícios de tomada de decisão
-- Prática de repetição e controle de fluxo
 
 *(Novos desafios podem ser adicionados conforme o avanço no bootcamp.)*
 
