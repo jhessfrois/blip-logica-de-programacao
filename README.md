@@ -21,6 +21,7 @@ Desafio desenvolvido no bootcamp Blip - Lógica de Programação.
 <br>
 
 > Atividade realizada no dia 28 de Dezembro de 2025
+> Atualizada no dia 01 de Janeiro de 2026
 
 # 🧠 Lógica de Programação — Bootcamp Blip (DIO)
 
@@ -59,6 +60,7 @@ Tecnologias utilizadas durante o desafio:
 
 - Classificador de nível de herói
 - Calculadora de partidas ranqueadas
+- Escrevendo as classes de um Jogo
 
 *(Novos desafios podem ser adicionados conforme o avanço no bootcamp.)*
 
